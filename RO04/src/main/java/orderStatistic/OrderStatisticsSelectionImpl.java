@@ -21,8 +21,45 @@ public class OrderStatisticsSelectionImpl<T extends Comparable<T>> implements Or
 	 */
 	@Override
 	public T getOrderStatistics(T[] array, int k) {
-		//TODO implement your code here
-		throw new UnsupportedOperationException("Not implemented yet!");
+		if(this.valida(array, k)) {
+			T menor = array[0];
+			T maior = array[0];
+			for (int i = 0; i < array.length; i++) {
+				if (menor.compareTo(array[i]) > 0) {
+					menor = array[i];
+				}
+				if (maior.compareTo(array[i]) < 0) {
+					maior = array[i];
+				}
+			}
+			return this.processo(array, k, menor, maior);
+		}
+		return null;
 	}
 
+	private T processo(T[] array, int k, T menor, T maior){
+		if(k-1 == 0){
+			return menor;
+		}
+		T novoMenor = maior;
+		for(int i = 0; i < array.length; i++){
+			if(menor.compareTo(array[i]) < 0 && novoMenor.compareTo(array[i]) > 0){
+				novoMenor = array[i];
+			}
+		}
+		return processo(array, k-1, novoMenor, maior);
+	}
+
+	private boolean valida(T[] array, int k){
+		if(k < 1){
+			return false;
+		}
+		if(k > array.length){
+			return false;
+		}
+		if(array == null){
+			return false;
+		}
+		return true;
+	}
 }
