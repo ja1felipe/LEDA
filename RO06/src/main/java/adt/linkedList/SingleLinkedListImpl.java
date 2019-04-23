@@ -2,7 +2,7 @@ package adt.linkedList;
 
 public class SingleLinkedListImpl<T> implements LinkedList<T> {
 
-	private SingleLinkedListNode<T> head;
+	protected SingleLinkedListNode<T> head;
 
 	public SingleLinkedListImpl() {
 		this.head = new SingleLinkedListNode<T>();
@@ -89,7 +89,7 @@ public class SingleLinkedListImpl<T> implements LinkedList<T> {
 	}
 
 	public SingleLinkedListNode<T> getHead() {
-		return head;
+		return this.head;
 	}
 
 	public void setHead(SingleLinkedListNode<T> head) {
