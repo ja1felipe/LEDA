@@ -21,13 +21,13 @@ public class StudentMaxHeapTest {
 		// uma max heap aqui. Use instanciacao anonima da interface
 		// Comparator!!!!
 		Comparator<Integer> comparator = null;
-		heap = new HeapImpl<Integer>(comparator);
+		heap = new HeapImpl<Integer>((o1, o2) -> o1.compareTo(o2));
 	}
 
 	@Test
 	public void testBuild() {
 		heap.buildHeap(new Integer[] { 82, 6, 99, 12, 34, 64, 58, 1 });
-
+		Arrays.toString(heap.toArray());
 		assertEquals(8, heap.size());
 		assertFalse(heap.isEmpty());
 
