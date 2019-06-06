@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c5c2802-9309-4c07-bc8b-1b1d31a0145a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../RO06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RO06/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RO06/target/classes/adt/linkedList/DoubleLinkedListImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RO06/target/classes/adt/linkedList/DoubleLinkedListImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RO06/target/classes/adt/queue/QueueDoubleLinkedListImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RO06/target/classes/adt/queue/QueueDoubleLinkedListImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RO06/target/classes/adt/stack/StackDoubleLinkedListImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RO06/target/classes/adt/stack/StackDoubleLinkedListImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/adt/heap/HeapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/adt/heap/HeapImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/adt/heap/StudentMaxHeapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/adt/heap/StudentMaxHeapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/adt/heap/StudentMinHeapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/adt/heap/StudentMinHeapTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="3c5c2802-9309-4c07-bc8b-1b1d31a0145a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,20 +39,23 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-949619754">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/adt/heap/HeapImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="151" column="37" selection-start-line="151" selection-start-column="37" selection-end-line="151" selection-end-column="37" />
-              <folding>
-                <element signature="e#3985#3986#0" expanded="true" />
-                <element signature="e#4013#4014#0" expanded="true" />
-                <element signature="e#4709#4710#0" expanded="true" />
-                <element signature="e#4743#4744#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="800">
+              <caret line="158" selection-start-line="158" selection-end-line="158" />
             </state>
           </provider>
         </entry>
@@ -69,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/adt/heap/StudentMaxHeapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-435">
-              <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-end-line="24" />
+            <state relative-caret-position="210">
+              <caret line="23" column="49" selection-start-line="23" selection-end-line="23" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -78,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/adt/heap/StudentMinHeapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-660">
-              <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+            <state relative-caret-position="285">
+              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -126,7 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,6 +178,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
@@ -358,18 +352,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25235197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.36" />
@@ -377,50 +368,44 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/adt/heap/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/adt/heap/Comparador.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/adt/heap/StudentMinHeapTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/adt/heap/Comparator.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/adt/heap/Comparador.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/adt/heap/HeapImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660">
-          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        <state relative-caret-position="800">
+          <caret line="158" selection-start-line="158" selection-end-line="158" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/adt/heap/StudentMaxHeapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-435">
-          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-end-line="24" />
+        <state relative-caret-position="210">
+          <caret line="23" column="49" selection-start-line="23" selection-end-line="23" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/adt/heap/HeapImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/adt/heap/StudentMinHeapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="151" column="37" selection-start-line="151" selection-start-column="37" selection-end-line="151" selection-end-column="37" />
-          <folding>
-            <element signature="e#3985#3986#0" expanded="true" />
-            <element signature="e#4013#4014#0" expanded="true" />
-            <element signature="e#4709#4710#0" expanded="true" />
-            <element signature="e#4743#4744#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
         </state>
       </provider>
     </entry>
